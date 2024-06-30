@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDeCompetidores.Web", "GestionDeCompetidores.Web\GestionDeCompetidores.Web.csproj", "{5B07D356-682E-4612-A2C0-5F44DC9A6B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDeCompetidores.Logica", "GestionDeCompetidores.Logica\GestionDeCompetidores.Logica.csproj", "{7D5B1BC3-A00E-4104-A229-185C5E24A859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDeCompetidores.Entidades", "GestionDeCompetidores.Entidades\GestionDeCompetidores.Entidades.csproj", "{FDCF5EED-6319-44FB-85DE-CBDA372F63EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B07D356-682E-4612-A2C0-5F44DC9A6B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B07D356-682E-4612-A2C0-5F44DC9A6B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B07D356-682E-4612-A2C0-5F44DC9A6B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B07D356-682E-4612-A2C0-5F44DC9A6B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5B1BC3-A00E-4104-A229-185C5E24A859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5B1BC3-A00E-4104-A229-185C5E24A859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5B1BC3-A00E-4104-A229-185C5E24A859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5B1BC3-A00E-4104-A229-185C5E24A859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCF5EED-6319-44FB-85DE-CBDA372F63EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCF5EED-6319-44FB-85DE-CBDA372F63EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCF5EED-6319-44FB-85DE-CBDA372F63EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCF5EED-6319-44FB-85DE-CBDA372F63EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

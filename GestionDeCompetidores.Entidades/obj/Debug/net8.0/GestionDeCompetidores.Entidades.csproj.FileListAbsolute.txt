@@ -1,0 +1,14 @@
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\bin\Debug\net8.0\GestionDeCompetidores.Entidades.deps.json
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\bin\Debug\net8.0\GestionDeCompetidores.Entidades.runtimeconfig.json
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\bin\Debug\net8.0\GestionDeCompetidores.Entidades.dll
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\bin\Debug\net8.0\GestionDeCompetidores.Entidades.pdb
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\GestionDeCompetidores.Entidades.csproj.AssemblyReference.cache
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\GestionDeCompetidores.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\GestionDeCompetidores.Entidades.AssemblyInfoInputs.cache
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\GestionDeCompetidores.Entidades.AssemblyInfo.cs
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\GestionDeCompetidores.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\GestionDeCompetidores.Entidades.dll
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\refint\GestionDeCompetidores.Entidades.dll
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\GestionDeCompetidores.Entidades.pdb
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\GestionDeCompetidores.Entidades.genruntimeconfig.cache
+C:\Users\LkrOverlord\RiderProjects\GestionDeCompetidores\GestionDeCompetidores.Entidades\obj\Debug\net8.0\ref\GestionDeCompetidores.Entidades.dll
